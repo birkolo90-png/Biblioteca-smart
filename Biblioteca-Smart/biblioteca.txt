@@ -1,0 +1,3 @@
+1;Il nome della rosa;Umberto Eco;1980;true
+2;Drakula;Bram Stoker;1897;true
+3;Il Signore degli anelli - La compagnia dell'anello;J.R.R. Tolkien;1954;true
